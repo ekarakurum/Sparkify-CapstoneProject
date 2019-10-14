@@ -13,15 +13,10 @@
 This project uses the following software and Python libraries:
 
 Python
-
 Spark
-
 Pyspark
-
 pandas
-
 Matplotlib
-
 Seaborn
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
